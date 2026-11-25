@@ -1,0 +1,11 @@
+{
+  "type": "hocm3:hocm3dimension_type_overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "hocm3:floresta"
+    }
+  }
+}

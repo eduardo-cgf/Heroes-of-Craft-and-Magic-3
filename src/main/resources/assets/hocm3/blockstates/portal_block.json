@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "hocm3:block/portal_block_lower" },
+    "half=upper": { "model": "hocm3:block/portal_block_upper" }
+  }
+}

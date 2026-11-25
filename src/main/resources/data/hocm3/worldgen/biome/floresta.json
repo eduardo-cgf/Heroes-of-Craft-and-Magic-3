@@ -1,0 +1,33 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.7,
+  "downfall": 0.8,
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "grass_color": 4251856,
+    "foliage_color": 3394764
+  },
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [], [], [], [], [], [],
+    ["minecraft:ore_coal_upper", "minecraft:ore_iron_upper"],
+    [], [],
+    ["minecraft:trees_plains", "minecraft:flower_plains"],
+    []
+  ],
+  "spawners": {
+    "creature": [
+      { "type": "minecraft:sheep", "weight": 10, "minCount": 2, "maxCount": 4 }
+    ]
+  },
+  "spawn_costs": {}
+}
