@@ -19,7 +19,7 @@ Requirements: **JDK 17** and an IDE (IntelliJ IDEA recommended).
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/hocm3.git
+   git clone https://github.com/your-username/Heroes-of-Craft-and-Magic-3.git
    ```
 2. Open the folder in IntelliJ and import `build.gradle`.
 3. Run `gradlew genIntellijRuns`.
